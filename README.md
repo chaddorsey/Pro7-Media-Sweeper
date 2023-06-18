@@ -27,3 +27,4 @@ ProPresetner files are decoded using reverse engineered Google Protocol Buffer f
      Stage config data is stored in the Stage config file ('~/ProPresenter/Configuration/Stage' by default).
 2. The full path string of every 'real' file in the chosen media folder to sweep is compared all of the file path strings from the ProPresenter files.  Any 'real' file that is not found to be referenced in ProPresenter is moved to a new folder at '~/Documents/Pro7 Media Sweeper/' (except a few key system files & hidden files).  The relative folder structure is maintained to eliminate any duplicate filename collisions and make it easy to restore the swept files manually with cut/copy/paste in your file browser of choice (Windows Explorer or MacOS Finder or other).
 3. The Swept Files can be reviewed and/or deleted without affecting the integrity of any ProPresenter presentations or playlists.
+# propresenter-slide-utiliities
